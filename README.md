@@ -31,7 +31,7 @@
 <div>
 <h2>Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/isaac-brian-da-silva-8836ab19b/" target="_blank">
+<a href="https://www.linkedin.com/in/isaac-brian-8836ab19b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
